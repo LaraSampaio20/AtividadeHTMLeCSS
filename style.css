@@ -1,0 +1,220 @@
+h1{
+height: 25px;
+font-family: 'Ropa Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 32px;
+color: #777777;
+margin: 10px;
+}
+
+h2{
+font-family: 'Ropa Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 11px;
+color: #AAAAAA;
+margin-top: 17px;
+margin-left: 5px;
+
+}
+
+.logo{
+    display: flex;
+    
+
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-self: stretch; 
+    position: absolute;
+    height: 48px;
+    width: 1350px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.25);
+}
+
+.vetor{
+    width: 18px;
+    height: 12px;
+    margin-right:80px;
+    margin-top: 17px;
+}
+
+
+.banner{
+    position: absolute;
+    border:  5px solid white;
+    width: 1250px;
+    height: 518px;
+    box-shadow: 1px 1px 4px black;
+    top:75px;
+    left: 44px;
+    right: 45px;
+    background: url(design_arquitetura.jpg);
+}
+
+img{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.banner div{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 1200px;
+    background: rgba(141, 141, 141, 0.62);
+    bottom: 230px
+}
+
+.banner h1{
+    position: absolute;
+    width: 25px;
+    height: 28px;
+    right: 1200px;
+    background: rgba(141, 141, 141, 0.62);
+    bottom: 220px
+}
+
+
+.anun1 div{
+    position: absolute;
+    width: 380px;
+    height: 200px;
+    top: 650px;
+    left: 90px;
+    background: url(Lofts-contemporâneos-0.jpg);
+    box-shadow: 1px 1px 4px black;
+    border:  5px solid white;
+}
+
+.anun1 h1{
+    position: relative;
+    width: 86px;
+    height: 33px;
+    font-family: 'Ropa Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 27px;
+    color: #888888;
+   top: 870px;
+   left: 80px;
+}
+
+.anun1 h2{
+    position: absolute;
+    width: 48px;
+    height: 30px;
+    background: #51D275;
+    border-radius: 10.5px;
+    position: absolute;
+    width: 48px;
+    height: 19px;
+    top:860px;
+    font-family: 'Ropa Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 21px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    left: 400px;
+    color:white;
+    
+}
+
+.anun1 p{
+    position: absolute;
+    width: 400px;
+    height: 44px;
+    font-family: 'Ropa Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 11px;
+    text-align: justify;
+    color: #555555;
+    top:905px;
+    left: 96px;
+}
+
+.anun2 div{
+    position: absolute;
+    width: 380px;
+    height: 200px;
+    background: url(arquitetura-curitiba-projeto-arquitetonico.jpg);
+    right: 100px;
+    top: 650px;
+    box-shadow: 1px 1px 4px black;
+    border:  5px solid white;
+}
+
+.anun2 h1{
+    position: absolute;
+    width: 56px;
+    height: 21px;
+    background: #DC9730;
+    border-radius: 10.5px;
+    position: absolute;
+    width: 48px;
+    height: 19px;
+    font-family: 'Ropa Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: white;
+    right: 80px;
+    top: 870px;
+}
+
+.anun2 h2{
+    position: absolute;
+    width: 86px;
+    height: 33px;
+    font-family: 'Ropa Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 27px;
+    color: #888888;
+    top: 860px;
+    right: 400px;
+
+}
+
+.anun2 p{
+    position: absolute;
+    width: 400px;
+    height: 44px;
+    font-family: 'Ropa Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 11px;
+    text-align: justify;
+    color: #555555;
+    right: 80px;
+    top:905px;
+}   
+
+
+
+
+
+
+   
+
+    
+
